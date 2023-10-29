@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Linux-blog'
+theme = 'hugo-theme-terminal'
